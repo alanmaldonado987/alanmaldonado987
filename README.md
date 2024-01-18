@@ -49,7 +49,3 @@ Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social networ
 [Markdown links Validator](https://www.npmjs.com/package/@marianasanchez/md-links/access)
 
 Project Developed on node.js. Library to check status of links within Markdown files.
-
-### Github Stats 🔨:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariana-Sanchez21)](https://github.com/anuraghazra/github-readme-stats)
