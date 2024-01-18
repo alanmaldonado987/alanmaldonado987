@@ -13,7 +13,7 @@ I'm a Systems Engineer, passionate about frontend development and creation of we
 
 ### Some technologies I use 🖥️:
 
-![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ### Projects 🌟:
