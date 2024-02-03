@@ -25,11 +25,3 @@ Backend
 ### Projects 🌟:
 
 
-Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social network where women can share tips and advice to stay safe on the streets. *Only available in mobile version*
-
-
-**Markdown links validator** (BACKEND)
-
-[Markdown links Validator](https://www.npmjs.com/package/@marianasanchez/md-links/access)
-
-Project Developed on node.js. Library to check status of links within Markdown files.
