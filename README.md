@@ -24,22 +24,6 @@ Backend
 
 ### Projects 🌟:
 
-**DataLovers-LoL**
-
-[DataLovers-LoL](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-Project developed using the League of Legends champion database. Vanilla JS, CSS, HTML, Git, and VS Code were used. Web design to visualize the champions, organize them, and search for each champion with their statistics.
-
-**BurguerQueen API Client**
-
-[BurguerQueen API Client](https://dev-006-burger-queen-api-client-frzt.vercel.app/)
-
-Project developed for a Burguer restaurant, using REACT.JS, REST API, promises and callbacks.Waiters can take the clients orders through the app, cooks can mark orders as completed and administrators can add new products and users.
-
-
-**MWUnited**
-
-[MWUnited](https://socialnetwork10-395ce.web.app/)
 
 Project developed using Vanilla JS, CSS, HTML, Git, and VS Code. A social network where women can share tips and advice to stay safe on the streets. *Only available in mobile version*
 
